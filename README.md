@@ -1,4 +1,5 @@
 # Sequential Thinking MCP Server
+[![smithery badge](https://smithery.ai/badge/@zacharyliner1xds/my-sequential-thinking-mcp-v1)](https://smithery.ai/server/@zacharyliner1xds/my-sequential-thinking-mcp-v1)
 
 A Model Context Protocol (MCP) server focused on structured sequential thinking capabilities, designed to integrate with Cline's Memory Bank. This server helps break down complex problems into structured sequential steps, track reasoning chains, and store thinking patterns.
 
@@ -93,6 +94,15 @@ The server includes ready-to-use reasoning templates to jumpstart the thinking p
 
 ## Installation
 
+### Installing via Smithery
+
+To install my-sequential-thinking-mcp-v1 for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@zacharyliner1xds/my-sequential-thinking-mcp-v1):
+
+```bash
+npx -y @smithery/cli install @zacharyliner1xds/my-sequential-thinking-mcp-v1 --client claude
+```
+
+### Manual Installation
 1. Ensure Node.js v14+ is installed
 2. Clone the repository
 3. Install dependencies:
